@@ -1,6 +1,5 @@
-Anime Blog Site 
-Demo link-
-https://kk02-2003.github.io/project-/
+Anime Blog Site  
+Demo link- https://kk02-2003.github.io/project-/
 
 A simple front-end project built to demonstrate basic web development skills and create interactive user interfaces.
 This project showcases a responsive web page using:
